@@ -27,6 +27,8 @@ Virtual hackerspace of HackLab.TO
   - https://hubs.mozilla.com/2ZhGLv4/hacklabto - Live demo
 - VRChat
   - https://vrchat.com/i/wet-garolprince-e7ca9 (not public yet)
+- Sketchfab
+  - https://sketchfab.com/3d-models/hacklabto-a2b3a24a8a0642d0b275cb3dd3c3e194
   
 ---
   
